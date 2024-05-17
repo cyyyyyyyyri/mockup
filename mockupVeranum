@@ -5,96 +5,28 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <!-- Header -->
-        <mxCell id="2" value="Logotipo VERANUM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="20" width="120" height="40" as="geometry" />
+        <mxCell id="2" value="Logotipo VERANUM" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontSize=20;strokeColor=none;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="20" y="20" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="3" value="Menú de Navegación" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="20" width="600" height="40" as="geometry" />
+        <mxCell id="3" value="Inicio" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontSize=16;strokeColor=none;fillColor=#007BFF;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="200" y="20" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="Habitaciones" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontSize=16;strokeColor=none;fillColor=#007BFF;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="310" y="20" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="Servicios" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontSize=16;strokeColor=none;fillColor=#007BFF;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="440" y="20" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6" value="Centro de Eventos" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontSize=16;strokeColor=none;fillColor=#007BFF;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="550" y="20" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7" value="Contacto" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontSize=16;strokeColor=none;fillColor=#007BFF;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="720" y="20" width="100" height="40" as="geometry" />
         </mxCell>
         <!-- Main Image -->
-        <mxCell id="4" value="Imagen destacada del centro de eventos" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="80" width="740" height="300" as="geometry" />
+        <mxCell id="8" value="" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=1;image;image=img_url_here;" vertex="1" parent="1">
+          <mxGeometry x="20" y="80" width="800" height="300" as="geometry" />
         </mxCell>
         <!-- Description -->
-        <mxCell id="5" value="Descripción del centro de eventos" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="400" width="740" height="60" as="geometry" />
-        </mxCell>
-        <!-- Call to Action Button -->
-        <mxCell id="6" value="Ver Disponibilidad" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007BFF;strokeColor=#0069D9;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="20" y="480" width="180" height="40" as="geometry" />
-        </mxCell>
-        <!-- Special Offers -->
-        <mxCell id="7" value="Ofertas Especiales" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="540" width="740" height="60" as="geometry" />
-        </mxCell>
-        <!-- Footer -->
-        <mxCell id="8" value="Información de Contacto | Redes Sociales | Dirección" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="620" width="740" height="60" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram name="Calendario de Disponibilidad">
-    <mxGraphModel dx="1412" dy="770" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <!-- Back to Main Menu -->
-        <mxCell id="2" value="Volver al menú principal" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007BFF;strokeColor=#0069D9;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="20" y="20" width="200" height="40" as="geometry" />
-        </mxCell>
-        <!-- Date Selector -->
-        <mxCell id="3" value="Calendario de Disponibilidad" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="80" width="740" height="400" as="geometry" />
-        </mxCell>
-        <!-- Booking Button -->
-        <mxCell id="4" value="Reservar Ahora" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007BFF;strokeColor=#0069D9;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="20" y="500" width="180" height="40" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram name="Formulario de Reserva">
-    <mxGraphModel dx="1412" dy="770" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <!-- Back to Calendar -->
-        <mxCell id="2" value="Volver al calendario de disponibilidad" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007BFF;strokeColor=#0069D9;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="20" y="20" width="280" height="40" as="geometry" />
-        </mxCell>
-        <!-- Customer Information -->
-        <mxCell id="3" value="Nombre Completo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="80" width="360" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="4" value="Correo Electrónico" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="140" width="360" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="5" value="Teléfono de Contacto" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="200" width="360" height="40" as="geometry" />
-        </mxCell>
-        <!-- Booking Details -->
-        <mxCell id="6" value="Fecha y Hora Seleccionada" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="260" width="360" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="7" value="Duración del Evento" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="320" width="360" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="8" value="Número de Asistentes" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="380" width="360" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="9" value="Servicios Adicionales" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="440" width="360" height="80" as="geometry" />
-        </mxCell>
-        <!-- Booking Summary -->
-        <mxCell id="10" value="Resumen de la Reserva" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="80" width="360" height="440" as="geometry" />
-        </mxCell>
-        <!-- Confirm Booking Button -->
-        <mxCell id="11" value="Confirmar Reserva" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#28A745;strokeColor=#218838;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="400" y="540" width="180" height="40" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-</mxfile>
+        <mxCell id="9" value="El centro de eventos del Hotel VERANUM ofrece instalaciones de primer nivel para sus reuniones, conferencias y celebraciones. Contamos con servicios adicionales como catering, equipo audiovisual y disposición de asientos según sus necesidades
+

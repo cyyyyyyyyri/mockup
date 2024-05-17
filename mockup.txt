@@ -34,4 +34,20 @@
         <mxCell id="campoSeleccionarEvento" value="Seleccionar Evento: [_________________________]" style="shape=rect;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="20" y="650" width="300" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="campoFechaReserva" value="Fecha de Reserva: [____________]" style="shape=rect;white
+        <mxCell id="campoFechaReserva" value="Fecha de Reserva: [____________]" style="shape=rect;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="20" y="690" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="campoInstitucion" value="Institución: [_________________________]" style="shape=rect;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="20" y="730" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="campoContacto" value="Contacto: [_________________________]" style="shape=rect;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="20" y="770" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="botonReservar" value="[Reservar]" style="shape=rect;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="20" y="810" width="300" height="30" as="geometry" />
+        </mxCell>
+
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
